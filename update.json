@@ -1,0 +1,11 @@
+{
+  "update_available": true,
+  "version_name": "1.0",
+  "force_update": false,
+  "update_url": "https://example.com/downloads/app-latest.apk",
+  "release_notes": [
+    "إصلاح بعض الأخطاء البرمجية وتحسين استقرار التطبيق.",
+    "تحسين سرعة الأداء العام واستهلاك البطارية.",
+    "إضافة ميزات جديدة ومحسنة لواجهة المستخدم."
+  ]
+}
