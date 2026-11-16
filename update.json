@@ -1,11 +1,11 @@
 {
   "update_available": true,
-  "version_name": "1.1",
+  "version_name": "1.2",
   "force_update": false,
-  "update_url": "https://www.mediafire.com/file/jmukrwixdvzdzhm/MVM_v1.1.apk/file",
+  "update_url": "https://www.mediafire.com/file/u7qr42zo65krnj3/MVM_v1.2.apk/file",
   "release_notes": [
     "إصلاح بعض الأخطاء البرمجية وتحسين استقرار التطبيق.",
-    "تحسين سرعة الأداء العام ",
+    " تحسين سرعة الأداء العام اصلاح تخطي اعلان بالريموت ",
     "إضافة ميزات جديدة ومحسنة لواجهة المستخدم."
   ]
 }
