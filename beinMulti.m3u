@@ -12,3 +12,5 @@ https://github.com/kianezidi/alive/raw/refs/heads/main/4.m3u8
 https://github.com/kianezidi/alive/raw/refs/heads/main/5.m3u8
 #EXTINF:-1 tvg-id="beIN6" tvg-name="beIN Sports 6" tvg-logo="https://up6.cc/2025/04/174489816477341.png" group-title="beIN Sports", beIN Sports 6 
 https://github.com/kianezidi/alive/raw/refs/heads/main/6.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 1 
+https://man1ted.com/get.php?ch=beee1
